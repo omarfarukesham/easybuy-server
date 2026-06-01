@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -iE \"^\\(zod|multer|@types\\)$\")",
+      "Bash([ -d \"node_modules/$p\" ])"
+    ]
+  }
+}
